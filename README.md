@@ -1,2 +1,3 @@
 # LIME-on-Azure-Computer-Vision
-Explaining Microsoft Cognitive Services Computer Vision software using LIME
+Analysing Microsoft Cognitive Services Computer Vision software's predictions using LIME
+
