@@ -4,7 +4,8 @@ Analysing Microsoft Cognitive Services Computer Vision software's predictions us
 
 ## Examples
 
-
+#### Satya Nadella
+![Identifying the Tie]()
 
 
 ## What is LIME?
@@ -32,8 +33,9 @@ pip install Pillow
 Besides LIME and PIL, we utilise, matplotlib, numpy and skimage.segmentation
 
 ## Instructions to run the code
-1. Have a temporary folder with a copy of the image you want to test
-2. Run the following code with a stable internet connection.
+1. Have images in .jpeg or .jpg format.
+2. Have a temporary folder with the image and the copy of the image you want to test
+3. Run the following code with a stable internet connection.
 
 ```
 python3 <file_name>.py <subscription_key> <endpoint> <image_path> <image_copy_path> <tag/caption/celebrity> <number_of_samples> 
