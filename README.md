@@ -11,6 +11,10 @@ Analysing Microsoft Cognitive Services Computer Vision software's predictions us
 
 LIME is a tool used for explaining predictions of machine learning models. The following resource to [LIME](https://github.com/marcotcr/lime) is a great starting point to understand it.
 
+Lime is based on the work presented in [this paper](https://arxiv.org/abs/1602.04938).
+
+<a href="https://www.youtube.com/watch?v=hUnRCxnydCc" target="_blank"><img src="https://raw.githubusercontent.com/marcotcr/lime/master/doc/images/video_screenshot.png" width="450" alt="KDD promo video"/></a>
+
 ## Installation
 
 The lime package is on [PyPI](https://pypi.python.org/pypi/lime). Use the following to install:
