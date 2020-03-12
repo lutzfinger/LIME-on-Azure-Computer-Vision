@@ -13,14 +13,22 @@ LIME is a tool used for explaining predictions of machine learning models. The f
 
 ## Installation
 
-The lime package is on [PyPI](https://pypi.python.org/pypi/lime). Use:
+The lime package is on [PyPI](https://pypi.python.org/pypi/lime). Use the following to install:
 
 ```sh
 pip install lime
 ```
 
+Install [PIL](https://pypi.python.org/pypi/Pillow/2.2.1):
+
+```sh
+pip install Pillow
+```
+
+Besides LIME and PIL, we utilise, matplotlib, numpy and skimage.segmentation
+
 ## Instructions to run the code
-1. Have a temporary folder with a copy of the image you want to test on.
+1. Have a temporary folder with a copy of the image you want to test
 2. Run the following code with a stable internet connection.
 
 ```
