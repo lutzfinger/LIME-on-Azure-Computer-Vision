@@ -6,21 +6,21 @@ Analysing Microsoft Cognitive Services Computer Vision software's predictions us
 
 #### Satya Nadella - Missing Tie
 
-![Identifying the Tie](Examples/Satya tie.jpg)
+![Identifying the Tie](Examples/Satya%20tie.jpg)
 
-![Results](Examples/Results satya_tie_10000.png)
+![Results](Examples/Results%20satya_tie_10000.png)
 
 #### President Donald Trump 
 
-![LIME can't see the smile](Examples/Donald Trump Smiling.png)
+![LIME can't see the smile](Examples/Donald%20Trump%20Smiling.png)
 
-![Results](Examples/Results_Donald Trump Smiling.png)
+![Results](Examples/Results_Donald%20Trump%20Smiling.png)
 
 #### HIllary Clinton - with a Guitar
 
-![Ah, there it is!](Examples/Performing Hillary.png)
+![Ah, there it is!](Examples/Performing%20Hillary.png)
 
-![Results](Examples/Results_Performing Hillary.png)
+![Results](Examples/Results_Performing%20Hillary.png)
 
 ## What is LIME?
 
