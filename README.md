@@ -4,7 +4,8 @@ Analysing Microsoft Cognitive Services Computer Vision software's predictions us
 
 ## Examples
 
-
+#### Satya Nadella
+![Identifying the Tie]()
 
 
 ## What is LIME?
