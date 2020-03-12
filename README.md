@@ -1,3 +1,28 @@
 # LIME-on-Azure-Computer-Vision
+
 Analysing Microsoft Cognitive Services Computer Vision software's predictions using LIME
 
+## Examples
+
+
+
+
+## What is LIME?
+
+LIME is a tool used for explaining predictions of machine learning models. The following resource to [LIME](https://github.com/marcotcr/lime) is a great starting point to understand it.
+
+## Installation
+
+The lime package is on [PyPI](https://pypi.python.org/pypi/lime). Use:
+
+```sh
+pip install lime
+```
+
+## Instructions to run the code
+1. Have a temporary folder with a copy of the image you want to test on.
+2. Run the following code with a stable internet connection.
+
+```
+python3 <file_name>.py <subscription_key> <endpoint> <image_path> <image_copy_path> <tag/caption/celebrity> <number_of_samples> 
+```
