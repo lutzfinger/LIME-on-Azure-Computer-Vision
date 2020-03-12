@@ -4,9 +4,17 @@ Analysing Microsoft Cognitive Services Computer Vision software's predictions us
 
 ## Examples
 
-#### Satya Nadella
+#### Satya Nadella - Missing Tie
 ![Identifying the Tie]()
+![]()
 
+#### President Donald Trump 
+![LIME can't see the smile]()
+![]()
+
+#### HIllary Clinton - with a Guitar
+![Ah, there it is!]()
+![]()
 
 ## What is LIME?
 
