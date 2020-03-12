@@ -13,7 +13,7 @@ LIME is a tool used for explaining predictions of machine learning models. The f
 
 LIME is based on the work presented in [this paper](https://arxiv.org/abs/1602.04938).
 
-<a href="https://www.youtube.com/watch?v=hUnRCxnydCc" target="_blank"><img src="https://raw.githubusercontent.com/marcotcr/lime/master/doc/images/video_screenshot.png" width="450" alt="KDD promo video"/></a>
+<a href="https://www.youtube.com/watch?v=hUnRCxnydCc" target="_blank"><img src="video_start.png" width="450" alt="KDD promo video"/></a>
 
 ## Installation
 
