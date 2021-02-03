@@ -9,7 +9,7 @@ We're not yet at a stage where AI can take complete control of daily processes. 
 [Azure Cognitive Services:](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/#features)
 
 
-PS: It's very likely that the description/tags of these images get's changed in the future, once MSFT realises them.
+PS: It's very likely that the description & tags of these images get's changed in the future, once MSFT realises them.
 
 ## Examples
 
