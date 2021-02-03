@@ -96,7 +96,7 @@ if __name__ == '__main__':
     analyze_url = endpoint + "vision/v2.1/analyze"
     image_data_init = open(image_path, "rb").read()
     headers = {'Ocp-Apim-Subscription-Key': subscription_key, 'Content-Type': 'application/octet-stream'}
-    params = {'visualFeatures': 'Tags,Categories,Description,Color'}
+    params = {'visualFeatures': 'Tags'}#'Tags,Categories,Description,Color'
     images = []
     # Convert to Numpy Array
     image = load_image(image_path)

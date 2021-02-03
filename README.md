@@ -1,6 +1,12 @@
 # LIME-on-Azure-Computer-Vision
 
 Analysing Microsoft Cognitive Services Computer Vision software's predictions using LIME
+We're not yet at a stage where AI can take complete control of daily processes. Transparency into AI's working mechanisms is a great first step.
+
+## Try some examples from the "try it yourself folder":
+
+[Azure Cognitive Services:](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/#features)
+PS: It's very likely that the description/tags of these images get's changed in the future, once MSFT realises them.
 
 ## Examples
 
