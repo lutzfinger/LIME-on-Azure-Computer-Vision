@@ -13,16 +13,6 @@ PS: It's very likely that the description & tags of these images get's changed i
 
 ## Examples
 
-## Satya Nadella - Missing Tie
-
-![Identifying the Tie](Examples/Satya%20tie.jpg)
-
-
-
-![Results](Examples/Results%20satya_tie_10000.png)
-
-
-
 ## President Donald Trump 
 
 ![LIME can't see the smile](Examples/Donald%20Trump%20Smiling.png)
@@ -30,6 +20,16 @@ PS: It's very likely that the description & tags of these images get's changed i
 
 
 ![Results](Examples/Results_Donald%20Trump%20Smiling.png)
+
+
+
+## Satya Nadella - Missing Tie
+
+![Identifying the Tie](Examples/Satya%20tie.jpg)
+
+
+
+![Results](Examples/Results%20satya_tie_10000.png)
 
 
 
