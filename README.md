@@ -1,3 +1,12 @@
+# XAI is an important tool for AI Transparency
+Artificial Intelligence (AI) is everywhere. No longer is AI only used by Netflix to serve you your next best evening entertainment. It helps determine whether you should get an interview, assess jail time, score your credit application, and give a medical diagnosis.
+
+Transparency of algorithms will often lead to interpretability questions. E.g., why did the algorithm reject my credit application? Explainable AI or XAI is a new field in research. Some machine learning algorithms such as decision trees, Bayesian classifiers, and linear models are easy to interpret since the data/features used are explainable by themselves. For example, an algorithm predicting the odds of being 'overweight' might use age, type of residence, education level, wealth index, etc... Those variables will be weighted during model training. The combination of weights and variables can explain later predictions. Deep learning models, on the other hand, can not be explained so easily. In Deep Learning, the algorithms create their own variables, which might not make immediate sense for us humans. 
+
+Since this is the cutting edge of research, many new tools get developed to help with explainability. LIME is one of them. To understand where Microsoft Azure sees for example a Guitar, LIME creates many different versions of the same image by removing some pixels. If the AI stops seeing the "Guitar," we can assume that this area was linked to the guitar. 
+
+Read more about XAI and why it's needed for the success of AI [here](https://www.forbes.com/sites/lutzfinger/2021/02/04/president-biden-is-man-woman-and-40-years-oldwhy-we-need-algorithmic-transparency/)
+
 # LIME-on-Azure-Computer-Vision
 
 Analysing Microsoft Cognitive Services Computer Vision software's predictions using LIME
